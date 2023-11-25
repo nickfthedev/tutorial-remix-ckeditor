@@ -1,3 +1,10 @@
+# Tutorial RemixJS x CK Editor with Typescript
+Find the tutorial on my blog:
+https://www.nick-friedrich.de/integrating-ckeditor-into-remixjs-a-step-by-step-guide
+
+Feel free to use!
+
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
